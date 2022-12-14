@@ -1,4 +1,4 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 def no_c(my_string):
     my_string_list = list(my_string)
     index_count = 0
